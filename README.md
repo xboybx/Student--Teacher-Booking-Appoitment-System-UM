@@ -426,6 +426,4 @@ For support, email support@edubooking.com or create an issue in the GitHub repos
    - Clear browser localStorage
    - Verify JWT_SECRET in `.env`
 
----
-
-**Built with ❤️ for the education community**
+--
