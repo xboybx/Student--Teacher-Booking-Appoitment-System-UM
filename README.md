@@ -2,6 +2,7 @@
 
 A modern, full-stack web application for managing appointments between students and teachers in educational institutions.
 
+[#*Preview*](https://student-teacher-booking-appoitment-24ut.onrender.com)
 ## 🚀 Features
 
 ### Admin Features
